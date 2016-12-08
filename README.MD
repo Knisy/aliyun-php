@@ -3,6 +3,9 @@
 ```
 
     放到thinkphp  Think\Upload\Driver目录下  
+    
+    C('FILE_UPLOAD_TYPE','Oss');
+
     $oss_config = array(
         'region'=>'bucket.oss-cn-shenzhen',//节点
         'access_id'  => '', //阿里云Access Key ID
