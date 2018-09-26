@@ -1,7 +1,9 @@
 
 # 使用教程
-这是基于thinkphp的  如果需要集成到其他框架 看看代码思路一样的做
-Oss.class.php
+这是基于thinkphp的  如果需要集成到其他框架 看看代码思路转换应该不难
+
+
+## Oss.class.php
 
 ```
 
@@ -20,7 +22,7 @@ Oss.class.php
 ```
 
 
-Alisms.class.php
+## Alisms.class.php
 
 ```
 
